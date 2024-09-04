@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syslogd", "Syslogd\Syslogd.csproj", "{FD10E0EE-2DA4-4C83-926E-03AE714787AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD10E0EE-2DA4-4C83-926E-03AE714787AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD10E0EE-2DA4-4C83-926E-03AE714787AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD10E0EE-2DA4-4C83-926E-03AE714787AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD10E0EE-2DA4-4C83-926E-03AE714787AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5E34D3-F484-4E31-A417-4913B3D14D09}
+	EndGlobalSection
+EndGlobal
