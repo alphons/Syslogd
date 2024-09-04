@@ -1,4 +1,4 @@
-# syslogd windows service
+# syslogd windows service (.net core 8)
 
 This windows service can be installed by the install script, open a command prompt as Administrator
 
